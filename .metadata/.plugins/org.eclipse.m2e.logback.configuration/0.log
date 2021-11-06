@@ -5,3 +5,8 @@
 2021-11-06 01:25:08,887 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sleekbook\Desktop\bets2122\Bets2122\Bets\src\main\resources
 2021-11-06 01:25:08,891 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-11-06 01:25:08,957 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sleekbook\Desktop\bets2122\Bets2122\Bets\src\test\resources
+2021-11-06 01:26:07,281 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.gmbal:gmbal:jar:4.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2021-11-06 01:26:07,356 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-06 01:26:07,375 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-11-06 01:26:07,541 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-06 01:26:07,543 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sleekbook\Desktop\bets2122\Bets2122\Bets\src\test\resources
