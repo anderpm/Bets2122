@@ -155,3 +155,8 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected ST
 2021-11-06 01:51:17,803 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sleekbook\Desktop\bets2122\Bets2122\Bets\src\test\resources
 2021-11-06 01:51:37,144 [Worker-3: Launching sonar update] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Sleekbook\Desktop\bets2122\Bets2122\Bets
 2021-11-06 01:51:37,144 [Worker-3: Launching sonar update] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean org.jacoco:jacoco-maven-plugin:prepare-agent org.jacoco:jacoco-maven-plugin:report install sonar:sonar
+2021-11-06 02:09:30,044 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.gmbal:gmbal:jar:4.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2021-11-06 02:09:30,102 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-06 02:09:30,108 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2021-11-06 02:09:30,151 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-06 02:09:30,152 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sleekbook\Desktop\bets2122\Bets2122\Bets\src\test\resources
