@@ -3,12 +3,12 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0	
 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<modelVersion>4.0.0</modelVersion>
-		<groupId>Bets21</groupId>
-		<artifactId>Bets21</artifactId>
+		<groupId>upv-ehu-iso2</groupId>
+		<artifactId> Bets2122 </artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 <build>
 				<plugins>
-            <plugin>
+						<plugin>
 		 <groupId>org.jacoco</groupId>
 		 <artifactId>jacoco-maven-plugin</artifactId>
 		 <version>0.8.6</version>
@@ -27,8 +27,8 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 					 </execution>
 				 </executions>
 </plugin>
- 
- <plugin>
+
+<plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-surefire-plugin</artifactId>
           <version>2.19.1</version>
@@ -53,14 +53,12 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 </repository>
 </repositories>
 <properties>
-				<maven.compiler.target>11</maven.compiler.target>
-				<maven.compiler.source>11</maven.compiler.source>
+				<maven.compiler.target>1.8</maven.compiler.target>
+				<maven.compiler.source>1.8</maven.compiler.source>
 
-				<sonar.organization>anderpm</sonar.organization>
+				<sonar.organization>anderpm-1</sonar.organization>
 				<sonar.host.url>https://sonarcloud.io</sonar.host.url>		
-				<sonar.projectKey>anderpm</sonar.projectKey>
-				<sonar.login>e0d30935fa92b33a3c3fee875780483eb1db983c</sonar.login>	
-					
+				<sonar.login>d769adef5d31b324a6c1821eecdb486fd68a428d</sonar.login>
 </properties>
 <!-- https://mvnrepository.com/artifact/junit/junit	-->
 <dependencies>
@@ -123,5 +121,4 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 				 <scope>test</scope>
 </dependency>
 </dependencies>
-
 </project>
